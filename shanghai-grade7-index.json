@@ -39,6 +39,18 @@
       "sha256": "b6ca409f0265c6bac1819e66c1301053e2c070c8701ab9c89389fc4226a1adbd"
     },
     {
+      "name": "七年级语文",
+      "subject": "文言文",
+      "level": "七年级",
+      "count": 52,
+      "author": "WorkBuddy",
+      "license": "CC BY 4.0",
+      "description": "文言文转项",
+      "file": "grade7-wenyanwen.json",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/panjill/Tiku/refs/heads/master/grade7-wenyanwen.json",
+      "sha256": "36a875bd50670ce4b9cc47a3941b89a5094db9a1539b99bc3ed56051ae72863b"
+    },
+    {
       "name": "七年级综合",
       "subject": "综合",
       "level": "七年级",
