@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "name": "小小文言文题库集（按年级）",
+  "banks": [
+    {
+      "name": "小小文言文 七年级上册",
+      "subject": "语文",
+      "level": "七上",
+      "count": 116,
+      "author": "小小文言文",
+      "license": "CC BY 4.0",
+      "description": "课内文言实词与虚词 · 七年级上册，共 116 题，含原文语境与释义。",
+      "file": "xiaoxiaowenyan-qishang.json",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/panjill/Tiku/refs/heads/master/xiaoxiaowenyan-qishang.json",
+      "sha256": "dcb89705c13cb7851215799395b853e9c2a4278d9f2dc540b105bc665d4b2f91"
+    },
+    {
+      "name": "小小文言文 七年级下册",
+      "subject": "语文",
+      "level": "七下",
+      "count": 80,
+      "author": "小小文言文",
+      "license": "CC BY 4.0",
+      "description": "课内文言实词与虚词 · 七年级下册，共 80 题，含原文语境与释义。",
+      "file": "xiaoxiaowenyan-qixia.json",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/panjill/Tiku/refs/heads/master/xiaoxiaowenyan-qixia.json",
+      "sha256": "25838198eedb3334e4749d14d363156a5fd957318809f60094a7b1387e869198"
+    },
+    {
+      "name": "小小文言文 八年级上册",
+      "subject": "语文",
+      "level": "八上",
+      "count": 177,
+      "author": "小小文言文",
+      "license": "CC BY 4.0",
+      "description": "课内文言实词与虚词 · 八年级上册，共 177 题，含原文语境与释义。",
+      "file": "xiaoxiaowenyan-bashang.json",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/panjill/Tiku/refs/heads/master/xiaoxiaowenyan-bashang.json",
+      "sha256": "f242820b5d61cadd611ffee69fa810c2bcdb0441238946b902dea2f3b2c70a6c"
+    },
+    {
+      "name": "小小文言文 八年级下册",
+      "subject": "语文",
+      "level": "八下",
+      "count": 207,
+      "author": "小小文言文",
+      "license": "CC BY 4.0",
+      "description": "课内文言实词与虚词 · 八年级下册，共 207 题，含原文语境与释义。",
+      "file": "xiaoxiaowenyan-baxia.json",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/panjill/Tiku/refs/heads/master/xiaoxiaowenyan-baxia.json",
+      "sha256": "b242778f0a98e3bf7cb3fa9d41ed83424cda118752f819d973caf45911d64500"
+    },
+    {
+      "name": "小小文言文 九年级上册",
+      "subject": "语文",
+      "level": "九上",
+      "count": 109,
+      "author": "小小文言文",
+      "license": "CC BY 4.0",
+      "description": "课内文言实词与虚词 · 九年级上册，共 109 题，含原文语境与释义。",
+      "file": "xiaoxiaowenyan-jiushang.json",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/panjill/Tiku/refs/heads/master/xiaoxiaowenyan-jiushang.json",
+      "sha256": "8db92d2eda5b1b74fdca51f17469416b8759637acb37ec0ba3dcd3197c837408"
+    },
+    {
+      "name": "小小文言文 九年级下册",
+      "subject": "语文",
+      "level": "九下",
+      "count": 380,
+      "author": "小小文言文",
+      "license": "CC BY 4.0",
+      "description": "课内文言实词与虚词 · 九年级下册，共 380 题，含原文语境与释义。",
+      "file": "xiaoxiaowenyan-jiuxia.json",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/panjill/Tiku/refs/heads/master/xiaoxiaowenyan-jiuxia.json",
+      "sha256": "e9f85ffd916d2f306d7cd270f4f1a40db57d38505081c93caf0cf70f47d8a6f4"
+    },
+    {
+      "name": "小小文言文 未标注年级",
+      "subject": "语文",
+      "level": "未标注年级",
+      "count": 15,
+      "author": "小小文言文",
+      "license": "CC BY 4.0",
+      "description": "课内文言实词与虚词 · 未标注年级，共 15 题，含原文语境与释义。",
+      "file": "xiaoxiaowenyan-weibiaozhu.json",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/panjill/Tiku/refs/heads/master/xiaoxiaowenyan-weibiaozhu.json",
+      "sha256": "d41700e8b6d2e746310afcdb896f7aadee879f004b06d72640ad4bdec566f66c"
+    }
+  ]
+}
